@@ -1,3 +1,5 @@
+//difference between while and Do-while loop
+
 package sept27programs;
 
 

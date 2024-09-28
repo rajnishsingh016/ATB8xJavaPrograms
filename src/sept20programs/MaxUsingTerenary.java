@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class MaxUsingTerenary {
     public static void main(String[] args) {
-
+// By using Ternary Operators max between 3 numbers.
+// Input int - a,b,c - a = 10, b = 20, c = 45
+// Max → a,b,c → c
         Scanner s=new Scanner(System.in);
         System.out.println("Please enter three input to check the max number");
         int num1=s.nextInt();

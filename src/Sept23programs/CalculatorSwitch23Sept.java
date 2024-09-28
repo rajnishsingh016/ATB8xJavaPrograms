@@ -1,7 +1,12 @@
-package Sept24programs;
+//By using Ternary Operators max between 3 numbers.
+// Input int - a,b,c - a = 10, b = 20, c = 45
+// Max → a,b,c → c
+
+package Sept23programs;
 import java.util.Scanner;
 
 public class CalculatorSwitch23Sept {
+
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number1");

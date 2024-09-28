@@ -1,5 +1,6 @@
-package sept25programs;
+//Prime Number from 1 to 100. (for loop)
 
+package sept25programs;
 import java.util.Scanner;
 
 public class PrimeNumberForLoop {

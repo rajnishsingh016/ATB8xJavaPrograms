@@ -1,3 +1,5 @@
+//sum of 1 to number usnig while loop
+
 package sept27programs;
 
 import java.util.Scanner;
