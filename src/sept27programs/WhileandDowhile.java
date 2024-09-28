@@ -1,7 +1,7 @@
+//difference between while and Do-while loop
+
 package sept27programs;
 
-
-import java.sql.SQLOutput;
 
 public class WhileandDowhile{
     public static void main(String[] args) {

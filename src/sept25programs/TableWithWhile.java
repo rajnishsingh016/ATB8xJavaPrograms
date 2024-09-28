@@ -1,3 +1,5 @@
+// Table of number n = 10, print table with For or while.
+
 package sept25programs;
 
 import java.util.Scanner;
