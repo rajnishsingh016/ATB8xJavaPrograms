@@ -15,6 +15,6 @@ public class FactorialwithFor {
             fact=fact*a;
 
         }
-        System.out.println(fact);
+        System.out.println("Fcatorial value of "+sum+ "is " +fact);
     }
 }
