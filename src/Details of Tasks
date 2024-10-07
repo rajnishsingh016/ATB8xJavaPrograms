@@ -1,0 +1,18 @@
+Details of Tasks
+
+23 Sept - 1. //By using Ternary Operators max between 3 numbers.
+          2. //Write a program that converts between different units (e.g., kilometers to miles, Celsius to Fahrenheit) based on user selection using a switch statement.
+          3. //Write a program that takes an integer input (1-12) and prints the name of the corresponding month using a switch statement.
+
+1 Oct - Classes and Objects
+
+4 Oct - Constructors Calling - Default and Parameterized 
+20 Sept - 1. Write a program that prints numbers from 1 to 100. However, for multiples of 3, print "Fizz" instead of the number, and for multiples of 5,print "Buzz." For numbers that are multiples of both 3 and 5, print "FizzBuzz."
+          2. Input → int score = 85 String grade → score >= 90 → A score >= 80 → B score >= 70 → C
+          3. Leap Year Program - Find 2024
+          4. By using Ternary Operators max between 3 numbers
+          5. Write a program that classifies a triangle based on its side lengths. Given three input values representing the lengths of the sides, determine if the triangle is equilateral (all sides are equal), isosceles (exactly two sides are equal), or
+              scalene (no sides are equal). Use an if-else statement to classify the triangle. side1, side2, side3 ->
+
+
+25 Sept - Count 
